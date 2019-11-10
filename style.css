@@ -1,0 +1,123 @@
+
+
+* {box-sizing: border-box;}
+*{font-family: Verdana, sans-serif;}
+.rows{
+	display:flex;
+}
+
+.row_f{
+	display:flex;
+
+}
+
+.two h1{
+	text-align:center;
+	font-weight:normal;
+	 margin-bottom:30px  ;
+}
+.row h2{
+	text-align:center;
+	font-weight:normal;
+	 margin-bottom:30px  
+
+}
+.row p{
+	font-size:20px;
+	margin: 0 auto
+	max-width: 800px;
+	text-align:center;
+}
+.three h1{
+	text-align:center;
+	font-weight:normal;
+	 margin-bottom:30px  ;
+}
+
+.card-group{
+	background-color:grey;
+}
+.row i{
+	font-size:40px;
+	position: absolute;
+}
+.rows img{
+	border:1px solid grey;
+
+}
+.promo {
+	text-align:center;
+	padding:40px;
+	background-image: url(images/backg.jpg);
+	background-size:cover;
+}
+.jumbotron {
+	border-radius: 20px;
+	padding: 40px;
+	max-width:800px;
+	margin:0 auto;
+
+}
+.one{
+	text-align:center;
+	padding:60px 0;
+}
+.four{
+	text-align:center;
+	padding:60px 0;
+}
+
+.five h1{
+	text-align:center;
+	font-weight:normal;
+	 margin-bottom:30px 
+
+}
+.six h1{
+	text-align:center;
+	font-weight:normal;
+	 margin-bottom:30px 
+
+}
+.seven h1{
+	text-align:center;
+	font-weight:normal;
+	 margin-bottom:30px 
+
+}
+.row_a{
+	display:flex;
+}
+
+.row_b{
+	display:flex;
+}
+.row_c{
+	display:flex;
+}
+.row_a p{
+	font-size:20px;
+	margin: 0 auto
+	max-width: 800px;
+}
+.row_b p{
+	font-size:20px;
+	margin: 0 auto
+	max-width: 800px;
+}
+.row_c p{
+	font-size:20px;
+	margin: 0 auto
+	max-width: 800px;
+}
+.card-body  a{
+	color:white;
+	font-size:20px;
+	margin: 0 auto
+	max-width: 800px;
+}
+.table {
+	font-size:20px;
+	margin: 0 auto
+	max-width: 800px;
+}
